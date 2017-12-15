@@ -2,8 +2,7 @@
   "name": "vanilla-toast",
   "description": "Vanilla Toast is a JavaScript notification element that doesn't require any dependencies.",
   "main": "gulpfile.js",
-  "authors": [
-    "Konrad Gadzinowski <contact@konradg.com>"
+  "authors": [    "Konrad Gadzinowski <contact@konradg.com>"
   ],
   "license": "MIT",
   "keywords": [
